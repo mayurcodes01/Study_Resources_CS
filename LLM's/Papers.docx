@@ -1,0 +1,43 @@
+Paper Stack
+
+(CV, NLP, LLM, VLM, Diffusion, Agentic AI, RAG)
+
+Prerequisite: You should have a basic understanding of deep learning before reading this paper. I’ve created the “Before LLMs” series, which brings together some of the best free resources for learning deep learning fundamentals.
+
+I highly recommend going through these materials before starting the paper. At a minimum, complete the first 4 weeks of the series so you have the foundational knowledge needed to understand the concepts in the paper.
+
+Week1(Computer Vision)
+
+    AlexNet: https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf?utm_source=Securitylab.ru
+    VGGNet: https://arxiv.org/abs/1409.1556
+    ResNet: https://arxiv.org/abs/1512.03385
+
+                                                                    Week2(NLP)
+
+                                                       
+
+    Word2Vec: https://arxiv.org/abs/1301.3781
+    Seq2Seq:https://arxiv.org/pdf/1409.3215
+    Attention: https://arxiv.org/pdf/1409.0473
+
+                                                                  Week3(NLP)
+
+    Attention is all you need:  https://arxiv.org/pdf/1706.03762
+    BERT: https://arxiv.org/abs/1810.04805
+    GPT 1: https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+
+                                                              Week4(CV)
+
+     ViT: https://arxiv.org/pdf/2010.11929
+    Swin Transformer: https://arxiv.org/abs/2103.14030
+    PVT: https://arxiv.org/pdf/2102.12122
+
+                                                  Week5
+
+     GPT-2: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+    GPT-3: https://arxiv.org/abs/2005.14165
+    InstructGPT: https://arxiv.org/abs/2005.14165
+
+                                                            Week6
+
+                                                    Coming Soon….
